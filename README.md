@@ -1,2 +1,0 @@
-# cssGridReact
-Created with CodeSandbox
